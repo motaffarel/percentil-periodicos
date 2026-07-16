@@ -1,6 +1,6 @@
 # Percentil — Catálogo de Métricas de Periódicos Científicos
 
-**Aplicativo para consulta e gerenciamento de métricas bibliométricas de periódicos científicos, desenvolvido para apoiar processos de credenciamento docente em programas de pós-graduação stricto sensu na área de Medicina Veterinária.**
+**Aplicativo para consulta e gerenciamento de métricas bibliométricas de periódicos científicos, Desenvolvido para apoiar pesquisadores e docentes na seleção de periódicos para submissão de manuscritos e na avaliação da produção científica em programas de pós-graduação stricto sensu, em conformidade com as diretrizes da CAPES. Disponibilizado gratuitamente para uso por quaisquer programas de pós-graduação.**
 
 ---
 
