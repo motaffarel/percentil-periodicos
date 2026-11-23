@@ -2,7 +2,9 @@
 
 **Ferramentas gratuitas para consultar métricas bibliométricas de periódicos científicos e pontuar a produção intelectual de docentes segundo os critérios de percentil da CAPES (Área 24 – Medicina Veterinária). Desenvolvidas para apoiar coordenadores, docentes e pesquisadores de programas de pós-graduação stricto sensu na escolha de periódicos, no credenciamento docente e na montagem de propostas (APCN).**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21400661.svg)](https://doi.org/10.5281/zenodo.21400661)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24479784.svg)](https://doi.org/10.5281/zenodo.24479784)
+
+Versão atual: **1.1.0** (DOI 10.5281/zenodo.24479784). Versão anterior: 1.0.0 (DOI 10.5281/zenodo.21400661).
 
 ---
 
@@ -65,9 +67,9 @@ Os percentis mudam todos os anos. Para credenciamento e APCN, use o mesmo ano-ba
 
 **Autora:** Marilda Onghero Taffarel
 **Instituição:** Universidade Estadual de Maringá (UEM) — Programa de Pós-Graduação em Produção Sustentável e Saúde Animal (PPS)
-**Versão:** 1.1 (2026)
+**Versão:** 1.1.0 (2026)
 
-> TAFFAREL, M. O. **Percentil: aplicativo e planilha de avaliação para métricas de periódicos científicos na área de Medicina Veterinária**. Versão 1.1. Maringá: UEM, 2026. DOI: 10.5281/zenodo.21400661. Disponível em: https://github.com/motaffarel/percentil-periodicos.
+> TAFFAREL, M. O. **Percentil: aplicativo e planilha de avaliação para métricas de periódicos científicos na área de Medicina Veterinária**. Versão 1.1.0. Maringá: UEM, 2026. DOI: 10.5281/zenodo.24479784. Disponível em: https://github.com/motaffarel/percentil-periodicos.
 
 ---
 
